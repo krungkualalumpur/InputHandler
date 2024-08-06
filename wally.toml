@@ -1,0 +1,8 @@
+[package]
+name = "krungkualalumpur/inputhandler"
+version = "0.1.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Maid = "nightcycle/maid@1.1.1"
